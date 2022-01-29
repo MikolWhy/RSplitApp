@@ -1,7 +1,6 @@
 package RSplit.java;
 
 import android.os.Bundle;
-import android.view.View;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -34,10 +33,5 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
     }
-    ///** Called when the user taps the Send button */
-    //fun sendMessage(view:View) {
-        // Do something in response to button
-    //}
+
 }
-
-

@@ -3,5 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+<<<<<<< HEAD
     <string name="title_activity_choose_action">ChooseActionActivity</string>
+=======
+>>>>>>> cd1f6523b23cde938df04e5e133e6976666727b2
 </resources>
